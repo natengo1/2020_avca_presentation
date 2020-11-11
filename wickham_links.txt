@@ -1,0 +1,5 @@
+Tidy Data - Hadley Wickham
+https://vita.had.co.nz/papers/tidy-data.pdf
+
+R for Data Science
+https://r4ds.had.co.nz/
